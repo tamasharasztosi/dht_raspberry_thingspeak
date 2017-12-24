@@ -11,4 +11,6 @@ Sends data in every 10 mins:
 This code shows DHT11 connected to GPIO 23 (pin 16 on Rpi zero)
 
 
-**tamasharasztosi, 2017
+
+
+**tamasharasztosi, 2017**
