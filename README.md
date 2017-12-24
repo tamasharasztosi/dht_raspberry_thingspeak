@@ -4,7 +4,8 @@
 *Requires Adafruit_DHT to be installed*
 
 Sends data in every 10 mins:
-*> crontab -e
+
+> crontab -e
 
 > */10 * * * * /usr/bin/python /home/pi/dht_thingspeak.py
 
