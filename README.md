@@ -1,7 +1,11 @@
-# Dht_raspberry_thingspeak
+# Dht raspberry thingspeak
 #### Sends temperature and humidity data to Thingspeak from a DHT sensor connected to Raspberry
 
 *Requires Adafruit_DHT to be installed*
+
+Basic usage(after configuration):
+
+> python dht_thingspeak.py
 
 Sends data in every 10 mins:
 
