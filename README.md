@@ -1,7 +1,7 @@
 # Dht raspberry thingspeak
 #### Sends temperature and humidity data to Thingspeak from a DHT sensor connected to Raspberry
 
-*Requires Adafruit_DHT to be installed*
+*Requires Adafruit_DHT to be installed https://github.com/adafruit/Adafruit_Python_DHT*
 
 Basic usage(after configuration):
 
